@@ -1,4 +1,4 @@
-import * as pg from "pg";
+import * as pg from "./index";
 
 // https://github.com/brianc/node-pg-types
 // tslint:disable-next-line no-unnecessary-callback-wrapper
